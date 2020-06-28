@@ -1,0 +1,7 @@
+C:\Users\trann\Desktop\3117410171_TranMinhNhat\Banking\bin\Debug\Banking.exe.config
+C:\Users\trann\Desktop\3117410171_TranMinhNhat\Banking\bin\Debug\Banking.exe
+C:\Users\trann\Desktop\3117410171_TranMinhNhat\Banking\bin\Debug\Banking.pdb
+C:\Users\trann\Desktop\3117410171_TranMinhNhat\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+C:\Users\trann\Desktop\3117410171_TranMinhNhat\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\trann\Desktop\3117410171_TranMinhNhat\Banking\obj\Debug\Banking.exe
+C:\Users\trann\Desktop\3117410171_TranMinhNhat\Banking\obj\Debug\Banking.pdb

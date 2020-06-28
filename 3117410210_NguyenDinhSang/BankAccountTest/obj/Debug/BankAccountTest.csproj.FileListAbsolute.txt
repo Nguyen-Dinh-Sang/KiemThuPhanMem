@@ -1,0 +1,9 @@
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\BankAccountTest\bin\Debug\BankAccountTest.dll
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\BankAccountTest\bin\Debug\BankAccountTest.pdb
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\BankAccountTest\bin\Debug\3117410210_NguyenDinhSang.exe
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\BankAccountTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\BankAccountTest\bin\Debug\3117410210_NguyenDinhSang.pdb
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\BankAccountTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\BankAccountTest\obj\Debug\BankAccountTest.csprojResolveAssemblyReference.cache
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\BankAccountTest\obj\Debug\BankAccountTest.dll
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\BankAccountTest\obj\Debug\BankAccountTest.pdb

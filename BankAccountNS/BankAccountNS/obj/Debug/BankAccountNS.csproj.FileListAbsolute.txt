@@ -1,0 +1,6 @@
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.exe.config
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.exe
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.pdb
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.csprojResolveAssemblyReference.cache
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.exe
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.pdb

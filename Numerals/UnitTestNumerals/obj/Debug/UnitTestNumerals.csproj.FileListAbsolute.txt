@@ -1,0 +1,9 @@
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\UnitTestNumerals\obj\Debug\UnitTestNumerals.csprojResolveAssemblyReference.cache
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\UnitTestNumerals\bin\Debug\UnitTestNumerals.dll
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\UnitTestNumerals\bin\Debug\UnitTestNumerals.pdb
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\UnitTestNumerals\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\UnitTestNumerals\bin\Debug\Numerals.exe
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\UnitTestNumerals\bin\Debug\Numerals.pdb
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\UnitTestNumerals\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\UnitTestNumerals\obj\Debug\UnitTestNumerals.dll
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\UnitTestNumerals\obj\Debug\UnitTestNumerals.pdb

@@ -1,0 +1,5 @@
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\3117410210_NguyenDinhSang\bin\Debug\3117410210_NguyenDinhSang.exe.config
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\3117410210_NguyenDinhSang\bin\Debug\3117410210_NguyenDinhSang.exe
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\3117410210_NguyenDinhSang\bin\Debug\3117410210_NguyenDinhSang.pdb
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\3117410210_NguyenDinhSang\obj\Debug\3117410210_NguyenDinhSang.exe
+C:\Users\DinhSang\Desktop\KiemThu\3117410210_NguyenDinhSang\3117410210_NguyenDinhSang\obj\Debug\3117410210_NguyenDinhSang.pdb

@@ -1,0 +1,6 @@
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\Numerals\bin\Debug\Numerals.exe.config
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\Numerals\obj\Debug\Numerals.csprojResolveAssemblyReference.cache
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\Numerals\bin\Debug\Numerals.exe
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\Numerals\bin\Debug\Numerals.pdb
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\Numerals\obj\Debug\Numerals.exe
+F:\Documents\N3\HK2\KiemThuPhamMem\ThucHanh\Numerals\Numerals\obj\Debug\Numerals.pdb
